@@ -1,12 +1,12 @@
-#Name Tags Gen
+# Name Tags Gen
 A CLI that excepts xslx of names and image as inputs and creates a lot of images from those names. 
 
-##Requirements
+## Requirements
 1. libmagic client - [installation](https://github.com/ahupp/python-magic#installation)
 2. Python 3.9
 3. openpyxl
 
-##Run and play
+## Run and play
 Install dependencies and run `$ python _main__.py`
 Parameters:
 * --names: Str of Absolute path of a xslx file with column filled with names - REQUIRED
